@@ -1,0 +1,89 @@
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.exe
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.deps.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.runtimeconfig.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.pdb
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.AssemblyInfo.cs
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.API-Formulary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.build.API-Formulary.props
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-Formulary.props
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-Formulary.props
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\scopedcss\bundle\API-Formulary.styles.css
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.CopyComplete
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\refint\API-Formulary.dll
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.pdb
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.genruntimeconfig.cache
+C:\Users\DELL\source\repos\API-Formulary\API-Formulary\obj\Debug\net7.0\ref\API-Formulary.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.exe
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.deps.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.runtimeconfig.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\API-Formulary.pdb
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.sourcelink.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.API-Formulary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.build.API-Formulary.props
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-Formulary.props
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-Formulary.props
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\scopedcss\bundle\API-Formulary.styles.css
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.csproj.CopyComplete
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\refint\API-Formulary.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.pdb
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\API-Formulary.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\obj\Debug\net7.0\ref\API-Formulary.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\DELL\Desktop\Programing Bitwise\.NET Projects\Formulario-Vue-and-ASP.NET\Back-end\API-Formulary\API-Formulary\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
