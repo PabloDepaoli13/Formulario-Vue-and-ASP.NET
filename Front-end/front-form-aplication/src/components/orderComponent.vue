@@ -26,7 +26,6 @@
         <div class="card-body">
           <h5 class="card-title">Detalles del contrato</h5>
           <ul class="list-group">
-            <li class="list-group-item"><strong>Código:</strong> {{ contrato.status }}</li>
             <li class="list-group-item"><strong>Código del Curso:</strong> {{ contrato.courseCode }}</li>
             <li class="list-group-item"><strong>Fecha de Alta:</strong> {{contrato.fechaAlta  }}</li>
             <li class="list-group-item"><strong>Colegio Nivel:</strong> {{contrato.colegioNivel}} </li>
