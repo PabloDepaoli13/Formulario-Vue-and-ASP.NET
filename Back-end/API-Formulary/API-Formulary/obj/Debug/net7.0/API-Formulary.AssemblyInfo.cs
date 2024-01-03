@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-Formulary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5201eacd6d8f83e7f54465f2916683bf4c3ded2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99a2c00b0f658756ff15cb8140884f48207ff77c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-Formulary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-Formulary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

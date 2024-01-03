@@ -1,7 +1,3 @@
-<script setup>
-</script>
-
-
 <template>
     <div class="card shadow-lg text-center">
       <div class="card-header bg-primary text-white">
@@ -14,9 +10,24 @@
                   <input v-model="contratoId" type="number" min="1">
               </div>
               <div class="mb-2">
-                <button class="btn btn-primary">Enviar</button>
+                <button i="enviarContratoId" class="btn btn-primary">Enviar</button>
               </div>
           </form>
       </div>
     </div>
 </template>
+
+<script>
+export default {
+        data() {
+            return {
+              contratoId: null,
+            };
+          },
+          methods: {
+                enviarId(){
+                  this.$emit("enviarIdContrato", this.contratoId);
+                }
+          },
+        };
+</script>
