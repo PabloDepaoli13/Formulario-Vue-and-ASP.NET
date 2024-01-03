@@ -10,7 +10,7 @@
                   <input v-model="contratoId" type="number" min="1">
               </div>
               <div class="mb-2">
-                <button i="enviarContratoId" class="btn btn-primary">Enviar</button>
+                <button i="enviarIdContrato" class="btn btn-primary">Enviar</button>
               </div>
           </form>
       </div>
